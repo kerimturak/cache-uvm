@@ -1,1 +1,20 @@
 # cache-uvm
+- UVM
+  - Transaction -> driving signal packet
+  - Sequence -> generated sequence with transaction
+  - Sequencer -> UVM sequencer
+  - Driver -> UVM driver
+  - Monitor -> UVM monitor
+  - Scoreboard -> UVM score board
+  - Agent -> UVM agent
+  - Environment -> UVM environement
+  - Test -> UVM test
+- Design
+  - Design -> Cache design
+  - plru -> Cache design submodules
+  - sp_bram -> Cache design submodules
+  - cache_if -> cache interface
+- Package
+  - Tcore_param -> cache package
+- Testbench
+  - Testbench -> testbench top
