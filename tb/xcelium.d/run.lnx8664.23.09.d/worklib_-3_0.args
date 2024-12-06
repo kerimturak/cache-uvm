@@ -1,0 +1,25 @@
+//
+// File created by:  xrun
+// Do not modify this file
+//
+-RUNMODE
+-INCDIR
+../sv
+-I_INCDIR
+/eda/cadence/2022-23/RHELx86/XCELIUM_23.09.003/tools/methodology/UVM/CDNS-1.1d/sv/src
+-DEFINE
+USE_PARAMETERIZED_WRAPPER
+-I_INCDIR
+/eda/cadence/2022-23/RHELx86/XCELIUM_23.09.003/tools/methodology/UVM/CDNS-1.1d/additions/sv
+-UPDATE
+-CDSLIB
+./xcelium.d/run.lnx8664.23.09.d/cdsrun.lib
+-HDLVAR
+./xcelium.d/run.lnx8664.23.09.d/hdlrun.var
+-work
+worklib
+-UVMNOSINGLESTEP
+-define
+UVM_PLI
+/eda/cadence/2022-23/RHELx86/XCELIUM_23.09.003/tools/methodology/UVM/CDNS-1.1d/sv/src/uvm_pkg.sv
+/eda/cadence/2022-23/RHELx86/XCELIUM_23.09.003/tools/methodology/UVM/CDNS-1.1d/additions/sv/cdns_uvm_pkg.sv
