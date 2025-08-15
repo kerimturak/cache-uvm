@@ -1,0 +1,22 @@
+# Cache Advanced UVM Project / Cache Gelişmiş UVM Projesi
+
+Bu proje, SystemVerilog ve UVM kullanılarak geliştirilmiş **Cache doğrulama altyapısını** içermektedir.
+Proje, özellikle ileri düzey UVM konseptlerini ve cache test stratejilerini uygulamalı olarak öğrenmek isteyen mühendisler için hazırlanmıştır.
+
+This project provides a **Cache verification infrastructure** developed using SystemVerilog and UVM.
+It is designed for engineers who want to learn advanced UVM concepts and cache testing strategies in a hands-on way.
+
+## İçerik / Contents
+
+- UVM environment ve agent tasarımı / UVM environment and agent design
+- Cache memory model doğrulama / Cache memory model verification
+- Sequence, driver ve monitor implementasyonları / Sequence, driver, and monitor implementations
+- Self-checking testbench ve coverage analizi / Self-checking testbench and coverage analysis
+
+Daha fazla detay ve proje dökümanları için: [Cache Advanced UVM Project](https://www.edaplayground.com/x/JTzr)
+For more details and project documentation: [Cache Advanced UVM Project](https://www.edaplayground.com/x/JTzr)
+
+---
+
+> Not: Bu proje eğitim amaçlı hazırlanmıştır ve ticari bir ürün olarak kullanılmamalıdır.
+> Note: This project is prepared for educational purposes and should not be used as a commercial product.
